@@ -31,7 +31,7 @@ bl_info = {
     }
 
 import bpy
-from .multiquicktime import *
+from .Multiquicktime import *
 
 # UI:
 
