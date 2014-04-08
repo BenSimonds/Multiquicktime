@@ -5,7 +5,7 @@ MultiQuicktime Add-On for Blender
 About:
 ------
 
-MultiQuicktime is a blender add-on that lets you export multiple quictime files from within blender's interface. It uses qt_tools for encoding videos, along with FFMPEG for some other more specific tasks. If I ever get around to it I might look at shifting the whole add-on over to using FFMPEG in order to make it more cross-platform.
+MultiQuicktime is a blender add-on that lets you export multiple quicktime files from within blender's interface. It uses qt_tools for encoding videos, along with FFMPEG for some other more specific tasks. If I ever get around to it I might look at shifting the whole add-on over to using FFMPEG in order to make it more cross-platform.
 
 You can find qt-tools at: http://omino.com/sw/qt_tools/
 
